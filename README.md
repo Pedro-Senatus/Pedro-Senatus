@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Olá, eu sou o Pedro Santos
+  # Olá, eu sou o Pedro Santos
   </br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-senatus&show&theme=radical)](https://github.com/pedro-senatus/github-readme-stats)
