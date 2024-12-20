@@ -1,6 +1,7 @@
 <div align="center">
   
-  ### Olá, eu sou o Pedro Ferreira
+  ## Olá, eu sou o Pedro Ferreira
+  </br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-senatus&show&theme=radical)](https://github.com/pedro-senatus/github-readme-stats)
   
