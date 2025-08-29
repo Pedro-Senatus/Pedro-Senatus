@@ -8,7 +8,7 @@
   ## Tecnologias que uso.
   
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a align="center" href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,php,nodejs,py,java,laravel,jquery,express,react,bootstrap,mongodb,mysql,postman,figma" />
     </a>
   </p>
